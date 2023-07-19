@@ -1,0 +1,15 @@
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/bin/Debug/net7.0/hw47
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/bin/Debug/net7.0/hw47.deps.json
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/bin/Debug/net7.0/hw47.runtimeconfig.json
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/bin/Debug/net7.0/hw47.dll
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/bin/Debug/net7.0/hw47.pdb
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.csproj.AssemblyReference.cache
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.AssemblyInfoInputs.cache
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.AssemblyInfo.cs
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.csproj.CoreCompileInputs.cache
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.dll
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/refint/hw47.dll
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.pdb
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/hw47.genruntimeconfig.cache
+/Users/brogues/Desktop/УЧЕБА /C7/hw47/obj/Debug/net7.0/ref/hw47.dll
